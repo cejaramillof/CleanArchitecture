@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="app-service.test" target="1.8" />
+      <module name="app.demo.reactive.cleanarchitecture.clean-architecture-api-service.main" target="1.8" />
+      <module name="app.demo.reactive.cleanarchitecture.clean-architecture-api-service.test" target="1.8" />
+      <module name="app.demo.reactive.cleanarchitecture.jpa-repository.main" target="1.8" />
+      <module name="app.demo.reactive.cleanarchitecture.jpa-repository.test" target="1.8" />
+      <module name="app.demo.reactive.cleanarchitecture.model.main" target="1.8" />
+      <module name="app.demo.reactive.cleanarchitecture.model.test" target="1.8" />
+      <module name="app.demo.reactive.cleanarchitecture.usecase.main" target="1.8" />
+      <module name="app.demo.reactive.cleanarchitecture.usecase.test" target="1.8" />
+      <module name="application.app-service.main" target="1.8" />
+      <module name="appname.applications-app-service.main" target="1.8" />
+      <module name="appname.applications-app-service.test" target="1.8" />
+      <module name="appname.clean-architecture-app-service.main" target="1.8" />
+      <module name="appname.clean-architecture-app-service.test" target="1.8" />
+      <module name="clean-architecture.application-app-service.main" target="1.8" />
+      <module name="clean-architecture.application-app-service.test" target="1.8" />
+      <module name="clean-architecture.applications-app-service.main" target="1.8" />
+      <module name="clean-architecture.applications-app-service.test" target="1.8" />
+      <module name="cleanarchitecture.clean-architecture-api-service.main" target="1.8" />
+      <module name="cleanarchitecture.clean-architecture-api-service.test" target="1.8" />
+      <module name="cleanarchitecture.clean-architecture-jpa-repository-commons.main" target="1.8" />
+      <module name="cleanarchitecture.clean-architecture-jpa-repository-commons.test" target="1.8" />
+      <module name="cleanarchitecture.clean-architecture-mongo-repository-common.main" target="1.8" />
+      <module name="cleanarchitecture.clean-architecture-mongo-repository-common.test" target="1.8" />
+      <module name="cleanarchitecture.clean-architecture-mongo-repository.main" target="1.8" />
+      <module name="cleanarchitecture.clean-architecture-mongo-repository.test" target="1.8" />
+      <module name="cleanarchitecture.clean-architecture-secrets-manager-consumer.main" target="1.8" />
+      <module name="cleanarchitecture.clean-architecture-secrets-manager-consumer.test" target="1.8" />
+      <module name="cleanarchitecture.clean-architecture-techinical-logs-utility.main" target="1.8" />
+      <module name="cleanarchitecture.clean-architecture-techinical-logs-utility.test" target="1.8" />
+      <module name="cleanarchitecture.driven-adapters-secrets-manager-consumer.main" target="1.8" />
+      <module name="cleanarchitecture.driven-adapters-secrets-manager-consumer.test" target="1.8" />
+      <module name="cleanarchitecture.jpa-repository-commons.main" target="1.8" />
+      <module name="cleanarchitecture.jpa-repository-commons.test" target="1.8" />
+      <module name="cleanarchitecture.jpa-repository.main" target="1.8" />
+      <module name="cleanarchitecture.jpa-repository.test" target="1.8" />
+      <module name="cleanarchitecture.model.main" target="1.8" />
+      <module name="cleanarchitecture.model.test" target="1.8" />
+      <module name="cleanarchitecture.mongo-repository-common.main" target="1.8" />
+      <module name="cleanarchitecture.mongo-repository-common.test" target="1.8" />
+      <module name="cleanarchitecture.mongo-repository.main" target="1.8" />
+      <module name="cleanarchitecture.mongo-repository.test" target="1.8" />
+      <module name="cleanarchitecture.secrets-manager-consumer.main" target="1.8" />
+      <module name="cleanarchitecture.secrets-manager-consumer.test" target="1.8" />
+      <module name="cleanarchitecture.techinical-logs-utility.main" target="1.8" />
+      <module name="cleanarchitecture.techinical-logs-utility.test" target="1.8" />
+      <module name="cleanarchitecture.usecase.main" target="1.8" />
+      <module name="cleanarchitecture.usecase.test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

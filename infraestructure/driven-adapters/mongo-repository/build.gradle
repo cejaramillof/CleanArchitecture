@@ -1,0 +1,10 @@
+dependencies {
+    implementation 'org.springframework.boot:spring-boot-starter-data-mongodb'
+    compile group: 'org.springframework', name: 'spring-context', version: '5.2.0.RELEASE'
+    compile group: 'javax.persistence', name: 'javax.persistence-api', version: '2.2'
+
+    compile project(':domain-model')
+    compile project(':helpers-mongo-repository-common')
+
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+}

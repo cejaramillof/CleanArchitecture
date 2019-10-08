@@ -1,0 +1,9 @@
+plugins {
+    id 'java'
+}
+dependencies {
+    compile group: 'org.springframework', name: 'spring-context', version: '2.0.5'
+    compile group: 'co.com.bancolombia', name: 'secretsmanager', version: '2.0.1'
+    compile project(':domain-model')
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+}

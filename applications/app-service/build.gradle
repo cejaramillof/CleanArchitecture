@@ -1,0 +1,22 @@
+apply plugin: 'org.springframework.boot'
+
+dependencies {
+    compile 'org.springframework.boot:spring-boot-starter'
+    implementation 'org.springframework.boot:spring-boot-starter-data-mongodb'
+
+    compile project(":domain-usecase")
+
+    compile project(":entry-points-api-rest")
+    
+    //compile project(":driven-adapters-jpa-repository")
+    compile project(":driven-adapters-mongo-repository")
+    //compile project(":driven-adapters-secrets-manager-consumer")
+    compile project(":driven-adapters-techinical-logs-utility")
+
+    compile 'org.apache.tomcat:tomcat-jdbc:7.0.28'
+    compile 'org.apache.commons:commons-dbcp2:2.2.0'
+    compile 'org.reactivecommons.utils:object-mapper:0.1.0'
+
+    runtime('org.springframework.boot:spring-boot-devtools')
+}
+
